@@ -192,6 +192,7 @@
             Controls.Add(groupBox1);
             Name = "frmHangSanXuat";
             Text = "Hãng sản xuất";
+            Load += frmHangSanXuat_Load;
             groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dataGridView).EndInit();
             groupBox1.ResumeLayout(false);

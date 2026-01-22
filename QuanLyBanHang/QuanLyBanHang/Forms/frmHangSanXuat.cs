@@ -111,5 +111,7 @@ namespace QuanLyBanHang.Forms
                 this.Close();
             }
         }
+
+        
     }
 }
